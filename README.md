@@ -36,7 +36,7 @@ Make sure you enter the Google API key in the .env file.
 
 ``` git clone <repository-url> ```
 
-``` cd LLM-Powered-Resume-Data-Extraction-and-Smart-ATS-System ```
+``` cd -LLM-Powered-Resume-Data-Extraction-and-Smart-ATS-System ```
 
 2. Install dependencies:
 
